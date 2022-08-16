@@ -1,4 +1,4 @@
-# Vet Clinic Database
+# Clinic Database
 
 This is a relational database for a clinic.
 
